@@ -1,0 +1,48 @@
+{
+  "shape": [
+    73100,
+    19
+  ],
+  "dtypes": {
+    "Date": "datetime64[ns]",
+    "Store ID": "object",
+    "Product ID": "object",
+    "Category": "object",
+    "Region": "object",
+    "Inventory Level": "int64",
+    "Units Sold": "int64",
+    "Units Ordered": "int64",
+    "Demand Forecast": "float64",
+    "Price": "float64",
+    "Discount": "int64",
+    "Weather Condition": "object",
+    "Holiday/Promotion": "int64",
+    "Competitor Pricing": "float64",
+    "Seasonality": "object",
+    "year": "int32",
+    "month": "int32",
+    "dayofweek": "int32",
+    "is_weekend": "int64"
+  },
+  "nulls": {
+    "Date": 0,
+    "Store ID": 0,
+    "Product ID": 0,
+    "Category": 0,
+    "Region": 0,
+    "Inventory Level": 0,
+    "Units Sold": 0,
+    "Units Ordered": 0,
+    "Demand Forecast": 0,
+    "Price": 0,
+    "Discount": 0,
+    "Weather Condition": 0,
+    "Holiday/Promotion": 0,
+    "Competitor Pricing": 0,
+    "Seasonality": 0,
+    "year": 0,
+    "month": 0,
+    "dayofweek": 0,
+    "is_weekend": 0
+  }
+}
